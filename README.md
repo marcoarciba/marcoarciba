@@ -2,7 +2,7 @@
 
 ### Analytics & AI Leader | Turning Data into Business Decisions
 
-I am an Analytics, Data Science, and AI professional with over 10 years of operational leadership experience, specializing in transforming data into actionable insights that improve decision-making and business performance.
+I am an Analytics, Data Science, and AI professional with a unique combination of more than 10 years of operational leadership experience and 5 years of experience developing advanced analytics, forecasting, machine learning, and AI solutions. My focus is on transforming data into actionable insights that drive better decisions, improve performance, and create measurable business impact.
 
 ---
 
