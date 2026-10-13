@@ -20,17 +20,22 @@ I am an Analytics, Data Science, and AI professional with a unique combination o
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Competencies
 
-### Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+- Forecasting & Time Series Analysis
+- Machine Learning
+- Decision Science
+- Operations Analytics
+- Statistical Modeling
+- Business Intelligence
 
-### Analytics & AI
-https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge
-https://img.shields.io/badge/Forecasting-blue?style=for-the-badge
-![Statistical ields.io/badge/Statistical%20Modeling-4B8BBE?style=for-the-badge
-![Power BI](https://img.shields.io/badge/811?style=for-the-badge&logo=powerbi&logoColor=black
+## 💻 Tools
+
+- Python
+- SQL
+- Power BI
+- Databricks
+- Git
 
 ---
 
